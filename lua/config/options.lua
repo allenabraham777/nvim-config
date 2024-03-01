@@ -33,4 +33,4 @@ opt.splitbelow = true
 opt.iskeyword:append("-")
 
 -- remove ~ in unused lines
-vim.wo.fillchars = 'eob: '
+vim.wo.fillchars = "eob: "
