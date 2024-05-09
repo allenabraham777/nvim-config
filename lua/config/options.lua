@@ -11,7 +11,10 @@ opt.softtabstop = 4
 opt.shiftwidth = 4
 
 -- line wrappng
-opt.wrap = false
+opt.wrap = true
+opt.linebreak = true
+opt.textwidth = 80
+opt.wrapmargin = 0
 
 opt.ignorecase = true
 opt.smartcase = true

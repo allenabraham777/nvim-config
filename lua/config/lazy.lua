@@ -12,7 +12,7 @@ require("lazy").setup({
 		{
 			"LazyVim/LazyVim",
 			opts = {
-				colorscheme = "moonfly",
+				colorscheme = "catppuccin",
 			},
 		},
 		{ import = "plugins" },
